@@ -1,0 +1,9 @@
+boto3
+pandas
+requests
+py4j
+loguru
+mysqlclient
+pymysql
+SQLAlchemy 
+mysql-connector-python 
